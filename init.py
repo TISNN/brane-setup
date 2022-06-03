@@ -6,7 +6,7 @@ import sys
 
 def init(source: str) -> str:
     os.system("cp /opt/wd/t* /data/")    
-    return "init"
+    return "init done"
 
 
 if __name__ == "__main__":
