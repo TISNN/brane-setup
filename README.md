@@ -1,5 +1,8 @@
 # WSCBS_Assignment4b_brane_Setup
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6612446.svg)](https://doi.org/10.5281/zenodo.6612446)
+
+
 This implementation is the initialization part of Titanic Project ([Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)).
 
 ## Usage
